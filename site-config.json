@@ -1,0 +1,39 @@
+{
+  "site_id": "e87ae5d10cb3",
+  "repo": "sivutnopeasti/vallu-vihuri-estimees-e87ae5d10cb3",
+  "company": "Vallu&Vihuri Estimees",
+  "email": "gabriel.mansnerus@gmail.com",
+  "issue_number": 37,
+  "images": {
+    "logo": {
+      "url": "https://i.ibb.co/67ThXXGW/Gemini-Generated-Image-q3wwb1q3wwb1q3ww.jpg",
+      "alt": "Vallu&Vihuri Estimees logo"
+    },
+    "hero": {
+      "url": "https://i.ibb.co/sdC52DYf/Gemini-Generated-Image-l8hpevl8hpevl8hp-1.jpg",
+      "alt": "Vallu&Vihuri – valmis sisustuskokonaisuus konsolipöydällä ja kultapeilillä"
+    },
+    "gallery-1": {
+      "url": "https://i.ibb.co/5hvSSRyw/Gemini-Generated-Image-x80a40x80a40x80a-1-1.jpg",
+      "alt": "Valmis keittiöremontti – tammiviilupintainen kaapisto marmoritasolla"
+    },
+    "gallery-2": {
+      "url": "https://i.ibb.co/k21myMYG/Gemini-Generated-Image-x3xamlx3xamlx3xa-1-1.jpg",
+      "alt": "Valmis kylpyhuonesaneeraus – allaskaapisto ja pyöreä peilivalaisin"
+    },
+    "team": {
+      "url": "https://i.ibb.co/sdC52DYf/Gemini-Generated-Image-l8hpevl8hpevl8hp-1.jpg",
+      "alt": "Valmis sisustuskokonaisuus – konsolipöytä kultapeilillä"
+    }
+  },
+  "texts": {
+    "h1": "Mittatilauskalusteet.Suunnittelu ja asennus.",
+    "h2_1": "Miksi valita Vallu&amp;Vihuri",
+    "h2_2": "Mittatilausratkaisut ja remontit",
+    "h2_3": "Tehtyjä töitä",
+    "h2_4": "Palvelulupaukset",
+    "h2_5": "Vallu&amp;Vihuri Estimees",
+    "h2_6": "Pyydä tarjous",
+    "hero_p": "Keittiöt, kylpyhuoneet ja kokonaiset sisustusprojektit suunnittelusta viimeiseen ruuviin."
+  }
+}
